@@ -8,34 +8,34 @@ global.APIs = {
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
-    'https://api.zahwazein.xyz': 'zenzkey_ad0a9acee99f'
+    'https://api.zahwazein.xyz': 'zenzkey_a0e2376ec00d'
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = 'GAFDY'
+global.namaowner = 'AFIF'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
-global.ultah = 'Maret 24, 2024'
+global.owner = ['6285348637889']
+global.ownernomer = "6285348637889"
+global.premium = ['6285348637889']
+global.ultah = 'Februari 3, 2008'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '089513081052'
+global.dana = '6285348637889'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
-global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
+global.email = 'afiffebriandy@gmail.com'
+global.namaweb = 'Instagram'
+global.myweb = 'https://instagram.com/afiffebri123'
 global.region = 'Indonesia'
 global.github = 'https://github.com/AdrianTzy'
 global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
 global.myig = 'https://instagram.com/dryan.pu'
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 GAFDY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 FOLLOW\nIG: afiffebri123'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -69,7 +69,7 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 10,
+    free: 500,
 }
 
 //—————「 Set Image 」—————//
